@@ -1,2 +1,0 @@
-# jstera
-Created with CodeSandbox
