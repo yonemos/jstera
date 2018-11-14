@@ -5,3 +5,4 @@ const uncle = () => {
 const res = uncle();
 console.log(res);
 console.log(uncle());
+console.log(uncle); //これは間違い
